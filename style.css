@@ -507,3 +507,52 @@ a{
     padding: 0 50px;
 }
 
+/* resposive */
+
+@media (max-width: 1199px){
+    .aside{
+        left: -270px;
+    }
+    .main-content{
+        padding-left: 0;
+    }
+    .about .about-content .parsonal-info .info-item p span{
+        display: block;
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 991px){
+    .container .card1{
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+        /* problem */
+    }
+}
+
+@media (max-width: 767px){
+    .about .about-content .skills,
+    .contact-form .col-6,
+    .about .about-content .parsonal-info{
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+@media (max-width: 575px){
+    .about .about-content .parsonal-info{
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+   
+}
+@media (max-width: 475px){
+    .about .about-content .parsonal-info{
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+
