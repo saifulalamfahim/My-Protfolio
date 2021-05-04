@@ -56,6 +56,10 @@ protfolio website youtube video list......
 14/ HTML Form to Mail | Create Full Functional HTML Form Without Any Back-end
    
    link/ https://www.youtube.com/watch?v=vc9rgFHr098
+
+15/ Profile Card Design using HTML and CSS
+
+  link/ https://www.youtube.com/watch?v=VmXVmnYmF38
 .........................
 
 some website list..................

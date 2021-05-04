@@ -5,13 +5,13 @@
     /* #ec1839 */
 }
 .aside .logo a::after{
-    border-bottom: 4px solid blueviolet;
-    border-right: 4px solid blueviolet;
+    border-bottom: 4px solid #747474;
+    border-right: 4px solid #747474;
 }
 .about .about-content .about-text h3 span,
 .aside .nav li a:hover,
 .aside .nav li a.active{
-    color: blueviolet;
+    color: #747474;
 }
 .about .about-content .skills .skill-item .progress .progress-in,
 .btn,
@@ -21,5 +21,5 @@
 .aside .nav-toggler span::before,
 .aside .nav-toggler span::after,
 .home .intro .social-link a{
-    background-color: blueviolet;
+    background-color: #747474;
 }
